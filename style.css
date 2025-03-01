@@ -1,0 +1,74 @@
+.body{
+    margin: 0px;
+}
+.title{
+    font-size: 150%;
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: flex-start;
+    gap:35px;
+    position: relative;
+    left:50px;
+    top: 30px;
+}
+
+.shopping-cart{
+    position: relative;
+    bottom: 3px;
+}
+
+.heart-button{
+    position: relative;
+    bottom: 1px;
+}
+
+.burger-button{
+    position: relative;
+    top: 2px;
+}
+
+.links{
+    font-size: 120%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 55px;
+    gap: 110px;
+}
+
+.links2{
+    font-size: 120%;
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+}
+
+.icons2{
+    display: flex;
+    justify-content: flex-end;
+    gap:50px;
+    position: relative;
+    right: 50px;
+    bottom: 20px;
+}
+
+.search-title{
+    position: relative;
+    bottom: 13px;
+}
+
+.flower-caption{
+    font-size: 30px;
+    position: relative;
+    bottom: 380px;
+    left: 50px;
+}
+
+.row1{
+    display: flex;
+}
+
+
